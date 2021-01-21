@@ -11,7 +11,7 @@
 [Vercel Deploy] ()
 
 ## Summary
-This project uses spaced repetition to allow the user to create an account, learn a set number of Japanese words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
+This project uses spaced repetition to allow the user to create an account, learn a set number of Spanish words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
 
 ## Technologies Used
 
