@@ -34,11 +34,11 @@ This project uses spaced repetition to allow the user to create an account, lear
 
 ## Screenshots
 
-<img width="1800" alt="login" src="https://user-images.githubusercontent.com/67432727/104399810-6b735600-551f-11eb-80ff-89a0fbfa003c.png">
+<img width="1800" alt="login" src="insert source">
 
-<img width="1800" alt="dashboard" src="https://user-images.githubusercontent.com/67432727/104399813-6dd5b000-551f-11eb-9cab-ea97a579aaee.png">
+<img width="1800" alt="dashboard" src="insert source">
 
-![learn](https://user-images.githubusercontent.com/67432727/104399980-c7d67580-551f-11eb-97fd-296ec408e128.png)
+![learn](insert image)
 
 ## API documentation
 
