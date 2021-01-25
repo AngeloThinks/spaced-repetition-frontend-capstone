@@ -7,7 +7,7 @@ import App from './components/App/App';
 import './setup-icons';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-
+npm i -g vercel
 ReactDOM.render(
   <BrowserRouter>
     <UserProvider>
