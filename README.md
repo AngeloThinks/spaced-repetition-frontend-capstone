@@ -8,10 +8,13 @@
 ## Live Links
 [Heroku Server] (https://vast-crag-51315.herokuapp.com)
 
-[Vercel Deploy] ()
+[Vercel Deploy] (https://spaced-repetition-frontend-weld.vercel.app/login)
 
 ## Summary
 This project uses spaced repetition to allow the user to create an account, learn a set number of Spanish words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
+
+Please sign-up first, 
+then click on login and enter your new information. After that click on login again to enter your flash cards. *note that the user is not routed back immediately to the login page for extra security.*
 
 ## Technologies Used
 
@@ -34,16 +37,21 @@ This project uses spaced repetition to allow the user to create an account, lear
 
 ## Screenshots
 
-<img width="1800" alt="login" src="insert source">
+<img width="1800" alt="login" src="img/login.png">
 
-<img width="1800" alt="dashboard" src="insert source">
+<img width="1800" alt="dashboard" src="img/signed-in.png">
 
-![learn](insert image)
+<img width="1800" alt="question" src="img/question.png">
+
+<img width="1800" alt="correct" src="img/correct.png">
+
+<img width="1800" alt="incorrect" src="img/incorrect.png">
+
 
 ## API documentation
 
 ### POST '/api/auth'
-Posting a login with a username and password, this endpoint will make sure they match and will create a json web token
+Posting a login with a username and password, this endpoint will make sure they match and will create a json web token. *Note* Please click on sign up first, create your credentials, followed by clicking on login in order to go back to the login page.
 
 ### GET '/api/language/'
 Endpoint will get the words for the user
