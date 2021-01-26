@@ -13,8 +13,8 @@
 ## Summary
 This project uses spaced repetition to allow the user to create an account, learn a set number of Spanish words from a database, keep track of their score, and the number of times they've gotten a word correct and incorrect.
 
-Please sign-up first, 
-then click on login and enter your new information. After that click on login again to enter your flash cards. *note that the user is not routed back immediately to the login page for extra security.*
+How to get started:
+Click on Sign-up to register your username and password. Click on Sign-up once completed. The Sign up page will direct you back to the log-in page. From there you will use your newly created credentials, and enter them into the placeholders. Click on Log-in and you will be directed to the dashboard. 
 
 ## Technologies Used
 
