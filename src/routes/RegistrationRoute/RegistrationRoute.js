@@ -11,14 +11,14 @@ class RegistrationRoute extends Component {
 
   handleRegistrationSuccess = () => {
     const { history } = this.props
-    history.push('/login')
+    history.push('/')
   }
 
   render() {
     return (
       <section className="registration-page">
         <p>
-          Practice learning a language with the spaced reptition revision technique.
+          Practice learning a language with the spaced repetition revision technique.
         </p>
         <h2 className="sign-up">Sign Up</h2>
         <RegistrationForm
